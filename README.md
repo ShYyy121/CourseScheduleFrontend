@@ -55,3 +55,6 @@ pnpm lint
 ### Customize configuration
 
 See [Configuration Reference](https://vitejs.dev/config/).
+
+
+# 后端代码见 https://github.com/ShYyy121/CourseScheduleBack
